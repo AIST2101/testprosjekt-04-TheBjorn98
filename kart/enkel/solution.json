@@ -1,0 +1,1 @@
+{"./kart/enkel/blocked_hole.png": {"0": {"start": [29, 2], "goal": [2, 29], "optimal_cost": 34.0}}, "./kart/enkel/corner.png": {"0": {"start": [29, 2], "goal": [2, 29], "optimal_cost": 44.0}}, "./kart/enkel/inside.png": {"0": {"start": [16, 16], "goal": [15, 3], "optimal_cost": 47.0}}, "./kart/enkel/warehouse.png": {"0": {"start": [25, 26], "goal": [7, 1], "optimal_cost": 68.0}}}

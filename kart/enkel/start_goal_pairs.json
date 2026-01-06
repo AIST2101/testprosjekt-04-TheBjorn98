@@ -1,0 +1,14 @@
+{
+    "./kart/enkel/blocked_hole.png": {
+        "0": {"start": [29, 2], "goal": [2, 29]}
+    },
+    "./kart/enkel/corner.png": {
+        "0": {"start": [29, 2], "goal": [2, 29]}
+    },
+    "./kart/enkel/inside.png": {
+        "0": {"start": [16, 16], "goal": [15, 3]}
+    },
+    "./kart/enkel/warehouse.png": {
+        "0": {"start": [25, 26], "goal": [7, 1]}
+    }
+}
